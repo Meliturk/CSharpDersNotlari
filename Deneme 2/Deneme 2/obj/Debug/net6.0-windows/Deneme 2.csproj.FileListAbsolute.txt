@@ -14,3 +14,19 @@ C:\Users\TURK PC\Desktop\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\refint\Denem
 C:\Users\TURK PC\Desktop\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.pdb
 C:\Users\TURK PC\Desktop\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.genruntimeconfig.cache
 C:\Users\TURK PC\Desktop\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\ref\Deneme 2.dll
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\bin\Debug\net6.0-windows\Deneme 2.exe
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\bin\Debug\net6.0-windows\Deneme 2.deps.json
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\bin\Debug\net6.0-windows\Deneme 2.runtimeconfig.json
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\bin\Debug\net6.0-windows\Deneme 2.dll
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\bin\Debug\net6.0-windows\Deneme 2.pdb
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme_2.Form1.resources
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.csproj.GenerateResource.cache
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.AssemblyInfoInputs.cache
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.AssemblyInfo.cs
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.csproj.CoreCompileInputs.cache
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.dll
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\refint\Deneme 2.dll
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.pdb
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\Deneme 2.genruntimeconfig.cache
+C:\Users\TURK PC\Desktop\NYP\CSharpDersNotlari\Deneme 2\Deneme 2\obj\Debug\net6.0-windows\ref\Deneme 2.dll

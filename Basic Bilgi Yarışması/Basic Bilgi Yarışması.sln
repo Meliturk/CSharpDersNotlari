@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Bilgi Yarışması", "Basic Bilgi Yarışması\Basic Bilgi Yarışması.csproj", "{F44297F6-5FC1-40D9-A11A-6430623128FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44297F6-5FC1-40D9-A11A-6430623128FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44297F6-5FC1-40D9-A11A-6430623128FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44297F6-5FC1-40D9-A11A-6430623128FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44297F6-5FC1-40D9-A11A-6430623128FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A87FD12-7069-4373-85F4-908245D7032E}
+	EndGlobalSection
+EndGlobal
